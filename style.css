@@ -240,25 +240,25 @@ body {
 }
 
 .proyecto1{
-  background: url(/assets/proyecto1.jpg);
+  background: url(./assets/proyecto1.jpg);
   background-position: center;
   background-size: cover;
 }
 
 .proyecto2{
-  background: url(/assets/proyecto2.jpg);
+  background: url(./assets/proyecto2.jpg);
   background-position: center;
   background-size: cover;
 }
 
 .proyecto3{
-  background: url(/assets/proyecto3.jpg);
+  background: url(./assets/proyecto3.jpg);
   background-position: center;
   background-size: cover;
 }
 
 .proyecto4{
-  background: url(/assets/proyecto4.jpg);
+  background: url(./assets/proyecto4.jpg);
   background-position: center;
   background-size: cover;
 }
